@@ -6,6 +6,8 @@ Para tanto, foi criado um Dockerfile com multistaging building onde, a imagem ba
 
 A imagem docker no Docker Hub econtrase neste <a href=https://hub.docker.com/repository/docker/nandopx/go/general target="_blank" rel="noopener noreferrer">repositório</a>
 
+Para ver o resultado basta rodar o comando "**docker run --rm nandopx/go:latest**"
+
 ## Referencias:
 #### https://gobyexample.com/hello-world
 #### https://hub.docker.com/_/scratch
